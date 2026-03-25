@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InfantGeoFence" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorSecondary">@color/purple_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/purple_primary</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowBackground">@color/background_grey</item>
+    </style>
+
+    <style name="Theme.InfantGeoFence.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/purple_primary</item>
+        <item name="postSplashScreenTheme">@style/Theme.InfantGeoFence</item>
+    </style>
+</resources>

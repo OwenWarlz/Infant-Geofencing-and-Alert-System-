@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="purple_primary">#6C63FF</color>
+    <color name="purple_light">#9C88FF</color>
+    <color name="purple_dark">#4A42CC</color>
+
+    <!-- Semantic -->
+    <color name="green">#00B050</color>
+    <color name="red">#DC3545</color>
+    <color name="orange">#FF8C00</color>
+    <color name="blue">#2196F3</color>
+
+    <!-- Backgrounds -->
+    <color name="background_grey">#F5F5FA</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Fence status backgrounds -->
+    <color name="fence_inside_bg">#F0FFF4</color>
+    <color name="fence_outside_bg">#FFF5F5</color>
+    <color name="fence_unknown_bg">#F8F9FA</color>
+    <color name="fence_inside_border">#C3E6CB</color>
+    <color name="fence_outside_border">#F5C6CB</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Nav -->
+    <color name="nav_selected">#6C63FF</color>
+    <color name="nav_unselected">#9E9E9E</color>
+</resources>

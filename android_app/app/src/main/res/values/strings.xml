@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infant GeoFence</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_map">Live Map</string>
+    <string name="nav_geofence">Geofence</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="osm_attribution">© OpenStreetMap contributors</string>
+</resources>
